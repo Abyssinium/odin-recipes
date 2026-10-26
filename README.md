@@ -1,2 +1,2 @@
-# odin-recipes2
-Doing my odin recipes again as a warm up, 
+# odin-recipes
+Doing the odin project, and doing this recipe stuff, was homework. Wanted to give it a go !
